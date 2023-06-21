@@ -1,1 +1,3 @@
-this is personalized version use https://github.com/ZoeyVid/nginx-proxy-manager
+this is personalized version.
+
+This is a fork of https://github.com/ZoeyVid/nginx-proxy-manager use that instead.
